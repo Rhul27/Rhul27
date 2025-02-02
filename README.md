@@ -1,5 +1,42 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>AI-Based Education System: Developing an AI-powered platform to make education accessible and personalized for everyone.  <br>AI-Powered DevOps Assistant: Building an AI-driven tool to automate DevOps tasks using natural language processing and integrating tools like Kubernetes, CI/CD pipelines, and cloud platforms (AWS, GCP, Azure).  <br><br>👯 I’m looking to collaborate on  <br>Open-source projects related to AI in education, machine learning, or DevOps automation.  <br>EdTech initiatives that leverage AI to create personalized learning experiences.  <br><br>🤝 I’m looking for help with  <br>Scaling AI models for real-time personalized learning recommendations.  <br>Integrating advanced NLP techniques to improve interaction and engagement in the education system.  <br><br>🌱 I’m currently learning  <br>Advanced Machine Learning Techniques: Exploring CNNs, TensorFlow/Keras, and OpenCV for image processing and facial emotion recognition.  <br>Natural Language Processing (NLP): Deepening my knowledge of NLP to enhance AI-driven educational tools.  <br><br>💬 Ask me about  <br>AI in Education: How to design and implement AI systems for personalized learning.  <br>Python Development: Best practices for building scalable backend systems using FastAPI, Docker, and Redis Pub/Sub.  <br>AI/ML: How to preprocess data, select models, and fine-tune hyperparameters for optimal performance.  <br><br>⚡ Fun fact  <br>I once built a payment gateway system that integrated blockchain APIs for secure transactions, reducing latency by 30%!  
+🎯 **Mission**: Building AI-driven solutions to make education accessible and personalized for everyone.  
+🚀 **Passion**: Leveraging AI, ML, and DevOps to solve real-world problems and create impactful tools.  
+
+---
+
+### 🔭 **I’m currently working on**  
+- **AI-Based Education System**: Developing an AI-powered platform to make education accessible and personalized for everyone.  
+- **AI-Powered DevOps Assistant**: Building an AI-driven tool to automate DevOps tasks using natural language processing and integrating tools like Kubernetes, CI/CD pipelines, and cloud platforms (AWS, GCP, Azure).  
+
+---
+
+### 👯 **I’m looking to collaborate on**  
+- **Open-source projects** related to AI in education, machine learning, or DevOps automation.  
+- **EdTech initiatives** that leverage AI to create personalized learning experiences.  
+
+---
+
+### 🤝 **I’m looking for help with**  
+- **Scaling AI models** for real-time personalized learning recommendations.  
+- **Integrating advanced NLP techniques** to improve interaction and engagement in the education system.  
+
+---
+
+### 🌱 **I’m currently learning**  
+- **Advanced Machine Learning Techniques**: Exploring CNNs, TensorFlow/Keras, and OpenCV for image processing and facial emotion recognition.  
+- **Natural Language Processing (NLP)**: Deepening my knowledge of NLP to enhance AI-driven educational tools.  
+
+---
+
+### 💬 **Ask me about**  
+- **AI in Education**: How to design and implement AI systems for personalized learning.  
+- **Python Development**: Best practices for building scalable backend systems using FastAPI, Docker, and Redis Pub/Sub.  
+- **AI/ML**: How to preprocess data, select models, and fine-tune hyperparameters for optimal performance.  
+
+---
+
+### ⚡ **Fun fact**  
+I once built a payment gateway system that integrated blockchain APIs for secure transactions, reducing latency by **30%**!  
 
 
 ## 🌐 Socials:
